@@ -1,4 +1,4 @@
-# Hackathon2020Project
+# Hackathon 2020 Global Warming and Recyling Website
 
 Hi, this is my first Hackathon 2020 Project. 
 
