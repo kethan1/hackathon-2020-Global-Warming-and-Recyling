@@ -1,4 +1,4 @@
 # Hackathon2020Project
 
-Hi, This is my first Hackathon 2020 Project. 
+Hi, this is my first Hackathon 2020 Project. 
  
